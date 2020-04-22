@@ -1,0 +1,8 @@
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\bin\Debug\AdvancedTopic.Lamba.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\bin\Debug\AdvancedTopic.Lamba.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\bin\Debug\AdvancedTopic.Model.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\bin\Debug\AdvancedTopic.Model.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\obj\Debug\AdvancedTopic.Lamba.csprojAssemblyReference.cache
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\obj\Debug\AdvancedTopic.Lamba.csproj.CopyComplete
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\obj\Debug\AdvancedTopic.Lamba.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Lamba\obj\Debug\AdvancedTopic.Lamba.pdb

@@ -1,0 +1,13 @@
+﻿Delegates is an object that knows how to call a method.
+Why do need a delegates because can be call by each other.
+Delegates allows us to applications that flexible and  extensible.
+For this framework it is not extensible meaning if other Developer wants to apply another Photo filter.
+He cannot able do it by introducing Delagates we can make this code be more extensible.
+The old way of initializing a Delegate will be show 
+public Delegate void PhotoHandler(Photo photo);
+From the client we also call the above Delegate by initailizing first like below
+PhotoProcessor.PhotoHandler filterHandler = filters.ApplyBrightness;
+Action => for a method that does return a value
+Func<> => for a method that return value.
+Using a Generic Delegate we can improve the code above to be more simply
+Action<Photo>

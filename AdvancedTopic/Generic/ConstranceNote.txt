@@ -1,0 +1,5 @@
+﻿where T:IComparable
+where T:Product 
+where T: struct
+where T:class
+where T: new ()

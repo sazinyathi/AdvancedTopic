@@ -1,0 +1,6 @@
+﻿Lamba expression are anomyms methods
+The syntax is args => expression
+It is very shorter.
+No arguments () =>
+One 
+Multiple  (x,y,z) =>

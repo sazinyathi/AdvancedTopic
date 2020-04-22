@@ -1,0 +1,8 @@
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\bin\Debug\Generic.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\bin\Debug\Generic.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\bin\Debug\AdvancedTopic.Model.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\bin\Debug\AdvancedTopic.Model.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\obj\Debug\AdvancedTopic.Generic.csprojAssemblyReference.cache
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\obj\Debug\AdvancedTopic.Generic.csproj.CopyComplete
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\obj\Debug\Generic.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\Generic\obj\Debug\Generic.pdb

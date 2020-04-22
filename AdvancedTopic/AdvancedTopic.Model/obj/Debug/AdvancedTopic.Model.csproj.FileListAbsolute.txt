@@ -1,0 +1,5 @@
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Model\bin\Debug\AdvancedTopic.Model.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Model\bin\Debug\AdvancedTopic.Model.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Model\obj\Debug\AdvancedTopic.Model.csprojAssemblyReference.cache
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Model\obj\Debug\AdvancedTopic.Model.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic.Model\obj\Debug\AdvancedTopic.Model.pdb

@@ -1,0 +1,15 @@
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.exe.config
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.exe
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Model.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\Generic.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Model.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\Generic.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.csprojAssemblyReference.cache
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.csproj.CopyComplete
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.exe
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Delegates.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Delegates.pdb
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Lamba.dll
+C:\Users\nyathiss\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.Lamba.pdb

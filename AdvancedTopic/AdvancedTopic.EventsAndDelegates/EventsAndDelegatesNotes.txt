@@ -1,0 +1,3 @@
+﻿An Events => mechanicism for communication between objects
+An Events is used in building Loosely Coupled Applications
+An events also helps extending applications
